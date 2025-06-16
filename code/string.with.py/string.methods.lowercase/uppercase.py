@@ -1,0 +1,15 @@
+Input_str=input("enter the string:")
+print(f"user entered string: {Input_str}")
+print(Input_str.lower())
+print(Input_str.upper())
+print(Input_str.swapcase())
+print(Input_str.title())
+print(Input_str.capitalize())
+
+print(Input_str.startswith("p"))
+print(Input_str.endswith("ing"))
+print(Input_str.index("a"))
+print(Input_str.count("n"))
+print(Input_str.replace("p","j"))
+print(Input_str.isdigit())
+

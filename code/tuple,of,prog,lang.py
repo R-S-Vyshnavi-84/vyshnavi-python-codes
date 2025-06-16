@@ -1,0 +1,9 @@
+num='java','cpp','c','js','python','sql','html','r'
+print('java',type('java'))
+print('cpp',type(cpp))
+print(c,type(c))
+print(js,type(js))
+print(python,type(python))
+print(sql,type(sql))
+print(html,type(html))
+print(r,type(r))

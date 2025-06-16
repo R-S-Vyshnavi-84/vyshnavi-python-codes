@@ -1,0 +1,6 @@
+str=input("Enter the string:")
+print(str)
+List=str.split()
+print(List)
+Res="".join(List)
+print(Res)
